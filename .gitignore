@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos generados (se regeneran con clean_data.py)
+data/processed/*.csv
+data/processed/*.db
